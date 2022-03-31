@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_toolbox_component">
+    <sys_uib_toolbox_component action="INSERT_OR_UPDATE">
+        <component_config/>
+        <config_layout/>
+        <description>A description of my component</description>
+        <external_configuration_sources/>
+        <group/>
+        <group_category/>
+        <group_icon/>
+        <icon>inbox-fill</icon>
+        <internal_component>false</internal_component>
+        <label>Alert-Email-View</label>
+        <macroponent display_value="Alert-Email-View">41308fb9ac1606f3aff57514f1bb3a04</macroponent>
+        <order>0</order>
+        <scripted_config_policy/>
+        <sys_class_name>sys_uib_toolbox_component</sys_class_name>
+        <sys_created_by>optimiz</sys_created_by>
+        <sys_created_on>2022-03-31 15:16:59</sys_created_on>
+        <sys_id>c95a0ce587ccc43da7c5cc5978973814</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Alert-Email-View</sys_name>
+        <sys_package display_value="@snc/optimizui-components" source="x_snc_optimizui">9c93e20887250110e4c0ea883cbb352b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="@snc/optimizui-components">9c93e20887250110e4c0ea883cbb352b</sys_scope>
+        <sys_update_name>sys_uib_toolbox_component_c95a0ce587ccc43da7c5cc5978973814</sys_update_name>
+        <sys_updated_by>optimiz</sys_updated_by>
+        <sys_updated_on>2022-03-31 15:16:59</sys_updated_on>
+    </sys_uib_toolbox_component>
+    <sys_translated_text action="delete_multiple" query="documentkey=c95a0ce587ccc43da7c5cc5978973814"/>
+</record_update>

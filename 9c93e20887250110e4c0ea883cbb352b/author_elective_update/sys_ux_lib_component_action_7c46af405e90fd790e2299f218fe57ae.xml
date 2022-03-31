@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_lib_component_action">
+    <sys_ux_lib_component_action action="DELETE">
+        <description>Example button was clicked</description>
+        <name>EXAMPLE_BUTTON_CLICKED</name>
+        <publisher/>
+        <sys_class_name>sys_ux_lib_component_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-11 15:40:49</sys_created_on>
+        <sys_id>7c46af405e90fd790e2299f218fe57ae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>EXAMPLE_BUTTON_CLICKED</sys_name>
+        <sys_package display_value="@snc/table-component" source="x_snc_optimizui">9c93e20887250110e4c0ea883cbb352b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="@snc/table-component">9c93e20887250110e4c0ea883cbb352b</sys_scope>
+        <sys_update_name>sys_ux_lib_component_action_7c46af405e90fd790e2299f218fe57ae</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-11 15:40:49</sys_updated_on>
+    </sys_ux_lib_component_action>
+    <sys_translated_text action="DELETE" query="documentkey=7c46af405e90fd790e2299f218fe57ae"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="@snc/optimizui-components">9c93e20887250110e4c0ea883cbb352b</application>
+        <file_path/>
+        <instance_id>34583c72db958910e26fd7c8f496194b</instance_id>
+        <instance_name>aiopsdemo</instance_name>
+        <name>sys_ux_lib_component_action_7c46af405e90fd790e2299f218fe57ae</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_lib_component_action"><sys_ux_lib_component_action action="INSERT_OR_UPDATE"><description>Example button was clicked</description><name>EXAMPLE_BUTTON_CLICKED</name><publisher/><sys_class_name>sys_ux_lib_component_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-02-11 15:40:49</sys_created_on><sys_id>7c46af405e90fd790e2299f218fe57ae</sys_id><sys_mod_count>0</sys_mod_count><sys_name>EXAMPLE_BUTTON_CLICKED</sys_name><sys_package display_value="@snc/table-component" source="x_snc_optimizui">9c93e20887250110e4c0ea883cbb352b</sys_package><sys_policy/><sys_scope display_value="@snc/table-component">9c93e20887250110e4c0ea883cbb352b</sys_scope><sys_update_name>sys_ux_lib_component_action_7c46af405e90fd790e2299f218fe57ae</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-02-11 15:40:49</sys_updated_on></sys_ux_lib_component_action><sys_translated_text action="delete_multiple" query="documentkey=7c46af405e90fd790e2299f218fe57ae"/></record_update>]]></payload>
+        <payload_hash>-1329320044</payload_hash>
+        <record_name>EXAMPLE_BUTTON_CLICKED</record_name>
+        <reverted_from/>
+        <source>2471525c87ed411007570d0d0ebb35ac</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-11 16:01:36</sys_created_on>
+        <sys_id>fc49262287a10150e4c0ea883cbb35b2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17ee984b77e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-11 16:01:36</sys_updated_on>
+        <type>Component Action</type>
+        <update_guid>c274226af0610150ec1ba25ea250aea5</update_guid>
+        <update_guid_history>c274226af0610150ec1ba25ea250aea5:-333115505,3884a26290a14510f4ef3bb3c06808b3:-85649637,c274226af0610150ec1ba25ea250aea5:-333115505,64532ea63f61015048f026e3464655a4:-85649637,06436aa6ba610150628d45b8457f2280:-333115505,13136eae9b61451006d38ff092f15c00:-85649637,e413eaae656145103f4d64ec01b21929:-333115505,e9922a66e2610150a8fdd778e3562321:-85649637,07826e6e986145106253514d2bd0583a:-333115505,9b32666ecf6145100001c0dba580b5b0:-85649637,5032e26ea7614510931218cb4789488c:-333115505,2ca12ee2d36101505e8086780c94b5d4:-85649637,2591eae258610150d74749e4f08ff891:-333115505,911a115a6e618d10a68d2cd59cf326d5:-85649637,fe0a115aa5618d1029f77076510a4500:-333115505,fbe95d1a83618d10db0ff85bc3ad6f29:-85649637,4de9991a3d618d108fcfc2d303cf7b8a:-333115505,80b85d962e618d1078e6ad6b472cab91:-85649637,ada8d99693618d103a9fea7c2a7c26d6:-333115505,348799164921c110053680d6982930d6:-85649637,667719161921c110e6bfdced572756da:-333115505,ba9fc5c68d654110f40af2c17de78b62:-85649637,909fc98a5de50d1037db3b8030ed0e97:-333115505,cc7fc58a74e50d106b50593da1b9b6e2:-85649637,fd6fcd86e8654110489476cc615a4ebd:-333115505,241f4d4a7ce50d10376204eb50f4e6d6:-85649637,460f454a09e50d1049bf1f7940f71563:-333115505,bafd4906eb654110f196ca92523b6bca:-85649637,10fd4dc6c1e50d10515a3264f58b9bea:-333115505,4954a482f4614110621a454951f6cc63:-85649637,aa4424822f6141100d22d7e1909c665f:-333115505,f633e8c266e10d107d7a5469d72587dc:-85649637</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-11 16:01:39</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_lib_component_action">sys_ux_lib_component_action</sys_db_object>
+        <sys_id>2818bd7685b7471e865944ffc153d1b9</sys_id>
+        <sys_metadata>7c46af405e90fd790e2299f218fe57ae</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>EXAMPLE_BUTTON_CLICKED</sys_name>
+        <sys_package display_value="@snc/optimizui-components" source="x_snc_optimizui">9c93e20887250110e4c0ea883cbb352b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="@snc/optimizui-components">9c93e20887250110e4c0ea883cbb352b</sys_scope>
+        <sys_scope_delete display_value="">6aed2b9d219e49c099a4a9f9562a9e40</sys_scope_delete>
+        <sys_update_name>sys_ux_lib_component_action_7c46af405e90fd790e2299f218fe57ae</sys_update_name>
+        <sys_update_version display_value="sys_ux_lib_component_action_7c46af405e90fd790e2299f218fe57ae">fc49262287a10150e4c0ea883cbb35b2</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-11 16:01:39</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

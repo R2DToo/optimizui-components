@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_macroponent">
+    <sys_ux_macroponent action="INSERT_OR_UPDATE">
+        <associated_types>d8899a0473000010f7353c78caf6a750,c1251a89db4c1010793ddf6b5e96199c</associated_types>
+        <category>component</category>
+        <component_dependencies/>
+        <composition>[]</composition>
+        <da_relay_models/>
+        <data/>
+        <dispatched_events/>
+        <extends/>
+        <handled_events/>
+        <interactions/>
+        <interfaces/>
+        <internal_event_mappings/>
+        <layout>{}</layout>
+        <macroponent_dependencies/>
+        <name>Alert-Email-View</name>
+        <props>[{"name":"currentUser","label":"Current User Lookup","readOnly":false,"defaultValue":"","valueType":"string","mandatory":false},{"name":"menuOptions","label":"Side Menu Options","readOnly":false,"defaultValue":"[]","valueType":"string","mandatory":false},{"name":"tableName","label":"Table","fieldType":"table_name","readOnly":false,"typeMetadata":{},"defaultValue":"em_alert","valueType":"string","mandatory":true},{"name":"externalSysparam","label":"Encoded Sysparam","readOnly":false,"defaultValue":"","valueType":"string","mandatory":false},{"name":"tableColumns","label":"Columns","readOnly":false,"defaultValue":"[]","valueType":"string","mandatory":false},{"name":"tableLimit","label":"Number of records per page","readOnly":false,"defaultValue":"50","valueType":"string","mandatory":false},{"name":"page","label":"Page number","readOnly":false,"defaultValue":"0","description":"Current page number used for paginating the table with the pagination-control","valueType":"string","mandatory":false}]</props>
+        <required_translations>[ ]</required_translations>
+        <root_component display_value="snc-alert-email-view">8c2c2f0324137ba41e3a1b7e19ff64ad</root_component>
+        <root_component_config>{"currentUser":"@context/currentUser","menuOptions":"@context/menuOptions","tableName":"@context/tableName","externalSysparam":"@context/externalSysparam","tableColumns":"@context/tableColumns","tableLimit":"@context/tableLimit","page":"@context/page"}</root_component_config>
+        <root_component_definition/>
+        <schema_version>1.0.0</schema_version>
+        <state_properties/>
+        <sys_class_name>sys_ux_macroponent</sys_class_name>
+        <sys_created_by>optimiz</sys_created_by>
+        <sys_created_on>2022-03-31 15:16:59</sys_created_on>
+        <sys_id>41308fb9ac1606f3aff57514f1bb3a04</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Alert-Email-View</sys_name>
+        <sys_package display_value="@snc/optimizui-components" source="x_snc_optimizui">9c93e20887250110e4c0ea883cbb352b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="@snc/optimizui-components">9c93e20887250110e4c0ea883cbb352b</sys_scope>
+        <sys_update_name>sys_ux_macroponent_41308fb9ac1606f3aff57514f1bb3a04</sys_update_name>
+        <sys_updated_by>optimiz</sys_updated_by>
+        <sys_updated_on>2022-03-31 15:16:59</sys_updated_on>
+    </sys_ux_macroponent>
+</record_update>

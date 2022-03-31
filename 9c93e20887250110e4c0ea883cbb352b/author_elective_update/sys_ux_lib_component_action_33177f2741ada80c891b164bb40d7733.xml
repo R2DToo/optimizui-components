@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_lib_component_action">
+    <sys_ux_lib_component_action action="DELETE">
+        <description>Acknowledge action was clicked. Event handler should handle this</description>
+        <name>TABLE_ACTION_BAR_ACKNOWLEDGE_CLICKED</name>
+        <publisher display_value="snc-alert-email-view">8c2c2f0324137ba41e3a1b7e19ff64ad</publisher>
+        <sys_class_name>sys_ux_lib_component_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-17 19:19:48</sys_created_on>
+        <sys_id>33177f2741ada80c891b164bb40d7733</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TABLE_ACTION_BAR_ACKNOWLEDGE_CLICKED</sys_name>
+        <sys_package display_value="@snc/table-component" source="x_snc_optimizui">9c93e20887250110e4c0ea883cbb352b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="@snc/table-component">9c93e20887250110e4c0ea883cbb352b</sys_scope>
+        <sys_update_name>sys_ux_lib_component_action_33177f2741ada80c891b164bb40d7733</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-17 19:19:48</sys_updated_on>
+    </sys_ux_lib_component_action>
+    <sys_translated_text action="DELETE" query="documentkey=33177f2741ada80c891b164bb40d7733"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="@snc/optimizui-components">9c93e20887250110e4c0ea883cbb352b</application>
+        <file_path/>
+        <instance_id>34583c72db958910e26fd7c8f496194b</instance_id>
+        <instance_name>aiopsdemo</instance_name>
+        <name>sys_ux_lib_component_action_33177f2741ada80c891b164bb40d7733</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_lib_component_action"><sys_ux_lib_component_action action="INSERT_OR_UPDATE"><description>Acknowledge action was clicked. Event handler should handle this</description><name>TABLE_ACTION_BAR_ACKNOWLEDGE_CLICKED</name><publisher display_value="snc-alert-email-view">8c2c2f0324137ba41e3a1b7e19ff64ad</publisher><sys_class_name>sys_ux_lib_component_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-03-17 19:19:48</sys_created_on><sys_id>33177f2741ada80c891b164bb40d7733</sys_id><sys_mod_count>0</sys_mod_count><sys_name>TABLE_ACTION_BAR_ACKNOWLEDGE_CLICKED</sys_name><sys_package display_value="@snc/table-component" source="x_snc_optimizui">9c93e20887250110e4c0ea883cbb352b</sys_package><sys_policy/><sys_scope display_value="@snc/table-component">9c93e20887250110e4c0ea883cbb352b</sys_scope><sys_update_name>sys_ux_lib_component_action_33177f2741ada80c891b164bb40d7733</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-03-17 19:19:48</sys_updated_on></sys_ux_lib_component_action><sys_translated_text action="delete_multiple" query="documentkey=33177f2741ada80c891b164bb40d7733"/></record_update>]]></payload>
+        <payload_hash>-652901391</payload_hash>
+        <record_name>TABLE_ACTION_BAR_ACKNOWLEDGE_CLICKED</record_name>
+        <reverted_from/>
+        <source>1493e20887250110e4c0ea883cbb352e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-17 19:19:48</sys_created_on>
+        <sys_id>00bc9e2587de0d50e4c0ea883cbb35f7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17f995265990000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-17 19:19:48</sys_updated_on>
+        <type>Component Action</type>
+        <update_guid>08bc9e2568de0d502c360afd4c74ac86</update_guid>
+        <update_guid_history>08bc9e2568de0d502c360afd4c74ac86:-652901391,e29cd66dc5da4150ad270d54ac55a878:-1323419139,2f529ee9999a4150e0ebcc24ccd85c26:-652901391,2e42de61c49e0d50690e93ad8131e472:-1323419139,b3dd46a14b9a4150a8218b5e76c96c4d:-652901391,becd02a90b5e0d50dfbec82548c96aa4:-1323419139,56accee51f5e0d50b92343e862786aa1:-652901391,859c0ae5f45e0d50d1fc49498d9da845:-1323419139,ca7cc6e5c75e0d503ce00c13b1abe105:-652901391,346c42e5155e0d50233fd4ae510d7a83:-1323419139,7afbcaad275a4150c5546addd1b7db0d:-652901391,30eb0aadf85a415052bf2d461b7885b5:-1323419139,c2fa8e2d4a5a415027495dad872f13e8:-652901391,73da8a2de15a4150191f6fd52a341550:-1323419139,cc5a02e1275e0d50229af611a35bfb99:-652901391,ce3acaa1f65e0d50c5fb6104aa64fbda:-1323419139,79a90a616d5e0d50318991802cb503f1:-652901391,0c9902a9535a4150697fcd1c8a56327c:-1323419139,b7074665485a4150fe46e4cbd6a7d693:-652901391,b2f68a2d6f1e0d50d5331565acf1a585:-1323419139,8e258a612c5a4150e4aefaec984f7c3e:-652901391,34158661665a4150db7842d59272ce5d:-1323419139,54dff1293d1a415059d401e5d3d39f72:-652901391</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-17 19:25:50</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_lib_component_action">sys_ux_lib_component_action</sys_db_object>
+        <sys_id>5adce5dadc5648009dd68d08cea75240</sys_id>
+        <sys_metadata>33177f2741ada80c891b164bb40d7733</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TABLE_ACTION_BAR_ACKNOWLEDGE_CLICKED</sys_name>
+        <sys_package display_value="@snc/optimizui-components" source="x_snc_optimizui">9c93e20887250110e4c0ea883cbb352b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="@snc/optimizui-components">9c93e20887250110e4c0ea883cbb352b</sys_scope>
+        <sys_scope_delete display_value="">6aed2b9d219e49c099a4a9f9562a9e40</sys_scope_delete>
+        <sys_update_name>sys_ux_lib_component_action_33177f2741ada80c891b164bb40d7733</sys_update_name>
+        <sys_update_version display_value="sys_ux_lib_component_action_33177f2741ada80c891b164bb40d7733">00bc9e2587de0d50e4c0ea883cbb35f7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-17 19:25:50</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

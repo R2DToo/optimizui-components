@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_macroponent">
+    <sys_ux_macroponent action="DELETE">
+        <associated_types>d8899a0473000010f7353c78caf6a750,c1251a89db4c1010793ddf6b5e96199c</associated_types>
+        <category>component</category>
+        <component_dependencies/>
+        <composition>[]</composition>
+        <da_relay_models/>
+        <data/>
+        <dispatched_events/>
+        <extends/>
+        <handled_events/>
+        <interactions/>
+        <interfaces/>
+        <internal_event_mappings/>
+        <layout>{}</layout>
+        <macroponent_dependencies/>
+        <name>Button Event Tester</name>
+        <props>[]</props>
+        <required_translations>[ ]</required_translations>
+        <root_component/>
+        <root_component_config>{}</root_component_config>
+        <root_component_definition/>
+        <schema_version>1.0.0</schema_version>
+        <state_properties/>
+        <sys_class_name>sys_ux_macroponent</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-11 15:40:50</sys_created_on>
+        <sys_id>6569a01f793d93f5de56f0f796f87833</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Button Event Tester</sys_name>
+        <sys_package display_value="@snc/table-component" source="x_snc_optimizui">9c93e20887250110e4c0ea883cbb352b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="@snc/table-component">9c93e20887250110e4c0ea883cbb352b</sys_scope>
+        <sys_update_name>sys_ux_macroponent_6569a01f793d93f5de56f0f796f87833</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-11 15:40:50</sys_updated_on>
+    </sys_ux_macroponent>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="@snc/optimizui-components">9c93e20887250110e4c0ea883cbb352b</application>
+        <file_path/>
+        <instance_id>34583c72db958910e26fd7c8f496194b</instance_id>
+        <instance_name>aiopsdemo</instance_name>
+        <name>sys_ux_macroponent_6569a01f793d93f5de56f0f796f87833</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_macroponent"><sys_ux_macroponent action="INSERT_OR_UPDATE"><associated_types>d8899a0473000010f7353c78caf6a750,c1251a89db4c1010793ddf6b5e96199c</associated_types><category>component</category><component_dependencies/><composition>[]</composition><da_relay_models/><data/><dispatched_events/><extends/><handled_events/><interactions/><interfaces/><internal_event_mappings/><layout>{}</layout><macroponent_dependencies/><name>Button Event Tester</name><props>[]</props><required_translations>[ ]</required_translations><root_component/><root_component_config>{}</root_component_config><root_component_definition/><schema_version>1.0.0</schema_version><state_properties/><sys_class_name>sys_ux_macroponent</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-02-11 15:40:50</sys_created_on><sys_id>6569a01f793d93f5de56f0f796f87833</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Button Event Tester</sys_name><sys_package display_value="@snc/table-component" source="x_snc_optimizui">9c93e20887250110e4c0ea883cbb352b</sys_package><sys_policy/><sys_scope display_value="@snc/table-component">9c93e20887250110e4c0ea883cbb352b</sys_scope><sys_update_name>sys_ux_macroponent_6569a01f793d93f5de56f0f796f87833</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-02-11 15:40:50</sys_updated_on></sys_ux_macroponent></record_update>]]></payload>
+        <payload_hash>-649302512</payload_hash>
+        <record_name>Button Event Tester</record_name>
+        <reverted_from/>
+        <source>2471525c87ed411007570d0d0ebb35ac</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-11 16:01:36</sys_created_on>
+        <sys_id>b049262287a10150e4c0ea883cbb35af</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17ee984b73a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-11 16:01:36</sys_updated_on>
+        <type>UX Macroponent Definition</type>
+        <update_guid>ed74226a506101507dd83a4ea71fa07b</update_guid>
+        <update_guid_history>ed74226a506101507dd83a4ea71fa07b:-264098131,7484626ad9610150448e41964c0402cf:-1052562887,ed74226a506101507dd83a4ea71fa07b:-264098131,b85326ee336145104445b3e3a9d5ba12:-1052562887,b943eaa67b610150df99c5d405259923:-264098131,97136eaeda614510c2cf92b9442edc0b:-1052562887,081366a600610150af23a5f236126041:-264098131,2d922a663e610150977101f1987e8853:-1052562887,2a82a666cf61015090a1a742f380c340:-264098131,6b32666e35614510f0a9a42d31ba48ba:-1052562887,3f222e26356101504120964170733980:-264098131,f4a1222e196145104b5cbaeab05bb974:-1052562887,d191eae240610150fcde885e789ad285:-264098131,691a515a3921c110d7e5429c1a82e4df:-1052562887,f60a115a7021c110121f77374a67562a:-264098131,88f95d1ad321c11091b216f69b82f01a:-1052562887,45e9d91af721c110b24e47fd2e10ddd2:-264098131,d0b85d96a421c1107663cf7a6943eb34:-1052562887,61a8d9960a21c110b875c253ee439ec3:-264098131,498799165a21c11039cfe9bfe225054a:-1052562887,8a779d168b618d1099b48dc19b5aa713:-264098131,0f9fc5c6fa65411028a2156ef0ad2d51:-1052562887,c49fc98a04e50d100a827711eef112af:-264098131,107f41c614654110b5e02fb511cd3ac4:-1052562887,dd6f858a16e50d1032f706d721500e9f:-264098131,ec1f4d4a0ee50d1039bc752d6dd22ade:-1052562887,460f8586a56541101dbd2b7d46478490:-264098131,bafdcdc626e50d109e27a173cc252dbc:-1052562887,8cfd8dc61de50d1085126c5bf0e1ef0e:2011558506,f8456cc227614110ba813f52b9b4c2aa:2025161566,095464827f6141107d02f44f6d2c5eef:-1052562887,9e44a44699e10d108d5b05ac57c479fe:-264098131,f233e8c2f5e10d10c836f383bc90a4eb:-1052562887</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-11 16:01:38</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_macroponent">sys_ux_macroponent</sys_db_object>
+        <sys_id>564fc31dbd5b4286b6b851fc81241851</sys_id>
+        <sys_metadata>6569a01f793d93f5de56f0f796f87833</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Button Event Tester</sys_name>
+        <sys_package display_value="@snc/optimizui-components" source="x_snc_optimizui">9c93e20887250110e4c0ea883cbb352b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="@snc/optimizui-components">9c93e20887250110e4c0ea883cbb352b</sys_scope>
+        <sys_scope_delete display_value="">6aed2b9d219e49c099a4a9f9562a9e40</sys_scope_delete>
+        <sys_update_name>sys_ux_macroponent_6569a01f793d93f5de56f0f796f87833</sys_update_name>
+        <sys_update_version display_value="sys_ux_macroponent_6569a01f793d93f5de56f0f796f87833">b049262287a10150e4c0ea883cbb35af</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-11 16:01:38</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

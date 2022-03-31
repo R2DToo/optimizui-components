@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_toolbox_component">
+    <sys_uib_toolbox_component action="DELETE">
+        <component_config/>
+        <config_layout/>
+        <description>Used for testing actions in custom components</description>
+        <external_configuration_sources/>
+        <group/>
+        <group_category/>
+        <group_icon/>
+        <icon>inbox-fill</icon>
+        <internal_component>false</internal_component>
+        <label>Button Event Tester</label>
+        <macroponent/>
+        <order>0</order>
+        <scripted_config_policy/>
+        <sys_class_name>sys_uib_toolbox_component</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-11 15:40:50</sys_created_on>
+        <sys_id>91f0e228dc9353859c601ba2c19f6efa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Button Event Tester</sys_name>
+        <sys_package display_value="@snc/table-component" source="x_snc_optimizui">9c93e20887250110e4c0ea883cbb352b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="@snc/table-component">9c93e20887250110e4c0ea883cbb352b</sys_scope>
+        <sys_update_name>sys_uib_toolbox_component_91f0e228dc9353859c601ba2c19f6efa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-11 15:40:50</sys_updated_on>
+    </sys_uib_toolbox_component>
+    <sys_translated_text action="DELETE" query="documentkey=91f0e228dc9353859c601ba2c19f6efa"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="@snc/optimizui-components">9c93e20887250110e4c0ea883cbb352b</application>
+        <file_path/>
+        <instance_id>34583c72db958910e26fd7c8f496194b</instance_id>
+        <instance_name>aiopsdemo</instance_name>
+        <name>sys_uib_toolbox_component_91f0e228dc9353859c601ba2c19f6efa</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_toolbox_component"><sys_uib_toolbox_component action="INSERT_OR_UPDATE"><component_config/><config_layout/><description>Used for testing actions in custom components</description><external_configuration_sources/><group/><group_category/><group_icon/><icon>inbox-fill</icon><internal_component>false</internal_component><label>Button Event Tester</label><macroponent/><order>0</order><scripted_config_policy/><sys_class_name>sys_uib_toolbox_component</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-02-11 15:40:50</sys_created_on><sys_id>91f0e228dc9353859c601ba2c19f6efa</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Button Event Tester</sys_name><sys_package display_value="@snc/table-component" source="x_snc_optimizui">9c93e20887250110e4c0ea883cbb352b</sys_package><sys_policy/><sys_scope display_value="@snc/table-component">9c93e20887250110e4c0ea883cbb352b</sys_scope><sys_update_name>sys_uib_toolbox_component_91f0e228dc9353859c601ba2c19f6efa</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-02-11 15:40:50</sys_updated_on></sys_uib_toolbox_component><sys_translated_text action="delete_multiple" query="documentkey=91f0e228dc9353859c601ba2c19f6efa"/></record_update>]]></payload>
+        <payload_hash>117193946</payload_hash>
+        <record_name>Button Event Tester</record_name>
+        <reverted_from/>
+        <source>2471525c87ed411007570d0d0ebb35ac</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-11 16:01:38</sys_created_on>
+        <sys_id>ed49662287a10150e4c0ea883cbb3500</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17ee984c1c50000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-11 16:01:38</sys_updated_on>
+        <type>Builder Component</type>
+        <update_guid>de74226a806101508155dcbef6cfc1aa</update_guid>
+        <update_guid_history>de74226a806101508155dcbef6cfc1aa:-1076043698,7884626a1161015071aa93830f335aed:1250021277,de74226a806101508155dcbef6cfc1aa:-1076043698,624362eefe614510d99cd99b8795a4e7:-1076043698,c153e2eeb16145109ccbd65ee74c05dd:1250021277,624362eefe614510d99cd99b8795a4e7:-1076043698,241366a6ff61015032fe2aa156462047:-1076043698,df13e6a68a610150169797d5ad442e94:1250021277,241366a6ff61015032fe2aa156462047:-1076043698,4382a66681610150a1d12a05967d9806:-1076043698,fd92ae6ede61451027b108b9ce9b2bb5:1250021277,4382a66681610150a1d12a05967d9806:-1076043698,e4322e26b3610150c00a70b6a8224593:-1076043698,1b32e2264a610150a3635aed1932268a:1250021277,e4322e26b3610150c00a70b6a8224593:-1076043698,c291aeea636145106db2819c374d485b:-1076043698,eca12ee2f76101508b6b09b2b38486c8:1250021277,c291aeea636145106db2819c374d485b:-1076043698,0f0a115a99618d10bb38f752a93a7443:-1076043698,791a515ad621c11092c4cc65283928fd:1250021277,0f0a115a99618d10bb38f752a93a7443:-1076043698,61e9111aac21c1107ca0c1fbf35dd7bd:-1076043698,b3e95d1a31618d105537d631cba64934:1250021277,61e9111aac21c1107ca0c1fbf35dd7bd:-1076043698,f5a8d9969f21c1109dfbb42439c609ee:-1076043698,dcb85d96a621c1108938e125994e2a5e:1250021277,f5a8d9969f21c1109dfbb42439c609ee:-1076043698,e6779d16bf618d1066ac0740d6f2133c:-1076043698,3087dd1625618d10738f3d966932f93e:1250021277,e6779d16bf618d1066ac0740d6f2133c:-1076043698,309f45c66a6541104531670ef5bbf462:-1076043698,4b9fc5c68865411016640d5f3b538e69:1250021277,309f45c66a6541104531670ef5bbf462:-1076043698,f56f858affe50d105f3b38904cdbc5bf:-1076043698,587f41c6fd654110e574bfee0b14a1d6:1250021277,f56f858affe50d105f3b38904cdbc5bf:-1076043698,ee0f858682654110cd35dcf3858c23f9:-1076043698,411f09869c654110adb5df441e5bdc3e:1250021277,ee0f858682654110cd35dcf3858c23f9:-1076043698,a4fdc506d5654110ef46849899abfb86:-1076043698,4ffd4906706541104c55946cf81246dd:1250021277,a4fdc506d5654110ef46849899abfb86:-1076043698,b644e4462fe10d10e7cce7bd5c983311:-1076043698,8154e446c2e10d105d80b18c073398d9:1250021277,b644e4462fe10d10e7cce7bd5c983311:-1076043698,9644a4466ae10d10df92ebdef3276ef8:0,b633e8c2eee10d105bdad5d46d4160e0:1250021277</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-11 16:01:42</sys_created_on>
+        <sys_db_object display_value="" name="sys_uib_toolbox_component">sys_uib_toolbox_component</sys_db_object>
+        <sys_id>0132cc5bb41f4d988061a474939ef5a9</sys_id>
+        <sys_metadata>91f0e228dc9353859c601ba2c19f6efa</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Button Event Tester</sys_name>
+        <sys_package display_value="@snc/optimizui-components" source="x_snc_optimizui">9c93e20887250110e4c0ea883cbb352b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="@snc/optimizui-components">9c93e20887250110e4c0ea883cbb352b</sys_scope>
+        <sys_scope_delete display_value="">6aed2b9d219e49c099a4a9f9562a9e40</sys_scope_delete>
+        <sys_update_name>sys_uib_toolbox_component_91f0e228dc9353859c601ba2c19f6efa</sys_update_name>
+        <sys_update_version display_value="sys_uib_toolbox_component_91f0e228dc9353859c601ba2c19f6efa">ed49662287a10150e4c0ea883cbb3500</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-11 16:01:42</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
