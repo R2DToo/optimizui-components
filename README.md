@@ -9,15 +9,17 @@ Custom Components built with [ServiceNow CLI](https://store.servicenow.com/sn_ap
 
 ## Step 1: Add Credentials
 
-Navigate to the credentials page and create a Basic Auth record with GitHub credentials that have access to this repository.
+Navigate to the Credentials page and create a Basic Auth record with GitHub credentials that have access to this repository.
 
-## Step 2: Import the Application
+## Step 2: Import the Custom Component Application
 
-Navigate to the studio and click on the "Import From Source Control" button
+Navigate to the Studio and click on the "Import From Source Control" button
 
 - Network Protocol: https
 - URL: https://github.com/R2DToo/optimizui-components
 - Credentials: Refer to step 1
 - Branch: main
 
-Once you have entered the details above, click "Import" and you should see a "Success" message when its finished
+Once you have entered the details above, click "Import" and you should see a "Success" message when its finished.
+
+Now you can move onto [step 2](https://github.com/R2DToo/Optimiz-Workspace#step-2-import-workspace) of the [Optimiz-Workspace](https://github.com/R2DToo/Optimiz-Workspace) installation.
