@@ -15,7 +15,7 @@
         <scripted_config_policy/>
         <sys_class_name>sys_uib_toolbox_component</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2022-04-19 20:04:31</sys_created_on>
+        <sys_created_on>2022-04-19 20:13:31</sys_created_on>
         <sys_id>11b120266849620c14a39d9e27e3ea52</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Integration List</sys_name>
@@ -24,7 +24,7 @@
         <sys_scope display_value="@snc/optimizui-components">9c93e20887250110e4c0ea883cbb352b</sys_scope>
         <sys_update_name>sys_uib_toolbox_component_11b120266849620c14a39d9e27e3ea52</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-04-19 20:04:31</sys_updated_on>
+        <sys_updated_on>2022-04-19 20:13:31</sys_updated_on>
     </sys_uib_toolbox_component>
     <sys_translated_text action="delete_multiple" query="documentkey=11b120266849620c14a39d9e27e3ea52"/>
 </record_update>
