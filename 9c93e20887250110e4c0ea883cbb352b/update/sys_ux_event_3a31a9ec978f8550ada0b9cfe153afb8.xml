@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_event">
+    <sys_ux_event action="INSERT_OR_UPDATE">
+        <description/>
+        <event_name>DEFINE_TAG_NORMALIZATION</event_name>
+        <interfaces/>
+        <label>DEFINE_TAG_NORMALIZATION</label>
+        <props>[]</props>
+        <required_translations>[ ]</required_translations>
+        <schema_version>1.0.0</schema_version>
+        <sys_class_name>sys_ux_event</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-20 19:13:19</sys_created_on>
+        <sys_id>3a31a9ec978f8550ada0b9cfe153afb8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DEFINE_TAG_NORMALIZATION</sys_name>
+        <sys_package display_value="@snc/optimizui-components" source="x_snc_optimizui">9c93e20887250110e4c0ea883cbb352b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="@snc/optimizui-components">9c93e20887250110e4c0ea883cbb352b</sys_scope>
+        <sys_update_name>sys_ux_event_3a31a9ec978f8550ada0b9cfe153afb8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-20 19:13:19</sys_updated_on>
+    </sys_ux_event>
+    <sys_translated_text action="delete_multiple" query="documentkey=3a31a9ec978f8550ada0b9cfe153afb8"/>
+</record_update>
