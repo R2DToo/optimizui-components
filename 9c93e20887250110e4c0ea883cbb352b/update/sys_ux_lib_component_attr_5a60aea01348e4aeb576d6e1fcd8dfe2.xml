@@ -59,7 +59,7 @@
         <staged>false</staged>
         <sys_class_name>sys_ux_lib_component_attr</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2022-04-28 20:06:36</sys_created_on>
+        <sys_created_on>2022-04-29 13:38:51</sys_created_on>
         <sys_id>5a60aea01348e4aeb576d6e1fcd8dfe2</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>Custom Actions</sys_name>
@@ -68,7 +68,7 @@
         <sys_scope display_value="@snc/optimizui-components">9c93e20887250110e4c0ea883cbb352b</sys_scope>
         <sys_update_name>sys_ux_lib_component_attr_5a60aea01348e4aeb576d6e1fcd8dfe2</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-04-28 20:06:36</sys_updated_on>
+        <sys_updated_on>2022-04-29 13:38:51</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
