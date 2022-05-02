@@ -15,7 +15,7 @@
         <scripted_config_policy/>
         <sys_class_name>sys_uib_toolbox_component</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2022-04-29 20:57:31</sys_created_on>
+        <sys_created_on>2022-05-02 18:23:53</sys_created_on>
         <sys_id>c95a0ce587ccc43da7c5cc5978973814</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Alert-Email-View</sys_name>
@@ -24,7 +24,7 @@
         <sys_scope display_value="@snc/optimizui-components">9c93e20887250110e4c0ea883cbb352b</sys_scope>
         <sys_update_name>sys_uib_toolbox_component_c95a0ce587ccc43da7c5cc5978973814</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-04-29 20:57:31</sys_updated_on>
+        <sys_updated_on>2022-05-02 18:23:53</sys_updated_on>
     </sys_uib_toolbox_component>
     <sys_translated_text action="delete_multiple" query="documentkey=c95a0ce587ccc43da7c5cc5978973814"/>
 </record_update>
