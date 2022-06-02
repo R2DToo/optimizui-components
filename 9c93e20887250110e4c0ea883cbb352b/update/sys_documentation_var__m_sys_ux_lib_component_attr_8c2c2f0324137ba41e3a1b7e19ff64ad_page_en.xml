@@ -10,8 +10,8 @@
             <plural>Page number</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>optimiz</sys_created_by>
-            <sys_created_on>2022-06-02 16:52:00</sys_created_on>
-            <sys_id>a54d1ede97b70d10ada0b9cfe153afda</sys_id>
+            <sys_created_on>2022-06-02 18:37:33</sys_created_on>
+            <sys_id>b3653a96977b0d10ada0b9cfe153afdf</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>Page number</sys_name>
             <sys_package display_value="@snc/optimizui-components" source="x_snc_optimizui">9c93e20887250110e4c0ea883cbb352b</sys_package>
@@ -19,7 +19,7 @@
             <sys_scope display_value="@snc/optimizui-components">9c93e20887250110e4c0ea883cbb352b</sys_scope>
             <sys_update_name>sys_documentation_var__m_sys_ux_lib_component_attr_8c2c2f0324137ba41e3a1b7e19ff64ad_page_en</sys_update_name>
             <sys_updated_by>optimiz</sys_updated_by>
-            <sys_updated_on>2022-06-02 16:52:00</sys_updated_on>
+            <sys_updated_on>2022-06-02 18:37:33</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>
