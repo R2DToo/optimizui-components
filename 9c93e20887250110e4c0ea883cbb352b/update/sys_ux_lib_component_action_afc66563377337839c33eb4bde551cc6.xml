@@ -5,7 +5,7 @@
         <publisher display_value="snc-alert-email-view">8c2c2f0324137ba41e3a1b7e19ff64ad</publisher>
         <sys_class_name>sys_ux_lib_component_action</sys_class_name>
         <sys_created_by>optimiz</sys_created_by>
-        <sys_created_on>2022-06-02 18:37:36</sys_created_on>
+        <sys_created_on>2022-06-03 19:23:05</sys_created_on>
         <sys_id>afc66563377337839c33eb4bde551cc6</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>RECORD_LINK_CMDB_CI_CLICKED</sys_name>
@@ -14,7 +14,7 @@
         <sys_scope display_value="@snc/optimizui-components">9c93e20887250110e4c0ea883cbb352b</sys_scope>
         <sys_update_name>sys_ux_lib_component_action_afc66563377337839c33eb4bde551cc6</sys_update_name>
         <sys_updated_by>optimiz</sys_updated_by>
-        <sys_updated_on>2022-06-02 18:37:36</sys_updated_on>
+        <sys_updated_on>2022-06-03 19:23:05</sys_updated_on>
     </sys_ux_lib_component_action>
     <sys_translated_text action="delete_multiple" query="documentkey=afc66563377337839c33eb4bde551cc6"/>
 </record_update>
