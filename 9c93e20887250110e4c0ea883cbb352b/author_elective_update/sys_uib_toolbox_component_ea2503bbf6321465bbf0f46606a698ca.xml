@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_toolbox_component">
+    <sys_uib_toolbox_component action="DELETE">
+        <component_config/>
+        <config_layout/>
+        <description>Visualize data using D3</description>
+        <external_configuration_sources/>
+        <group/>
+        <group_category/>
+        <group_icon/>
+        <icon>analytics-center-outline</icon>
+        <internal_component>false</internal_component>
+        <label>Optimiz D3 Visualization</label>
+        <macroponent/>
+        <order>0</order>
+        <scripted_config_policy/>
+        <sys_class_name>sys_uib_toolbox_component</sys_class_name>
+        <sys_created_by>optimiz</sys_created_by>
+        <sys_created_on>2022-06-09 17:32:47</sys_created_on>
+        <sys_id>ea2503bbf6321465bbf0f46606a698ca</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Optimiz D3 Visualization</sys_name>
+        <sys_package display_value="@snc/optimizui-components" source="x_snc_optimizui">9c93e20887250110e4c0ea883cbb352b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="@snc/optimizui-components">9c93e20887250110e4c0ea883cbb352b</sys_scope>
+        <sys_update_name>sys_uib_toolbox_component_ea2503bbf6321465bbf0f46606a698ca</sys_update_name>
+        <sys_updated_by>optimiz</sys_updated_by>
+        <sys_updated_on>2022-06-09 17:32:47</sys_updated_on>
+    </sys_uib_toolbox_component>
+    <sys_translated_text action="DELETE" query="documentkey=ea2503bbf6321465bbf0f46606a698ca"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="@snc/optimizui-components">9c93e20887250110e4c0ea883cbb352b</application>
+        <file_path/>
+        <instance_id>a6fa0c3adbaa41503050ac44d4961935</instance_id>
+        <instance_name>aiops4demo</instance_name>
+        <name>sys_uib_toolbox_component_ea2503bbf6321465bbf0f46606a698ca</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_toolbox_component"><sys_uib_toolbox_component action="INSERT_OR_UPDATE"><component_config/><config_layout/><description>Visualize data using D3</description><external_configuration_sources/><group/><group_category/><group_icon/><icon>analytics-center-outline</icon><internal_component>false</internal_component><label>Optimiz D3 Visualization</label><macroponent/><order>0</order><scripted_config_policy/><sys_class_name>sys_uib_toolbox_component</sys_class_name><sys_created_by>optimiz</sys_created_by><sys_created_on>2022-06-09 17:32:47</sys_created_on><sys_id>ea2503bbf6321465bbf0f46606a698ca</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Optimiz D3 Visualization</sys_name><sys_package display_value="@snc/optimizui-components" source="x_snc_optimizui">9c93e20887250110e4c0ea883cbb352b</sys_package><sys_policy/><sys_scope display_value="@snc/optimizui-components">9c93e20887250110e4c0ea883cbb352b</sys_scope><sys_update_name>sys_uib_toolbox_component_ea2503bbf6321465bbf0f46606a698ca</sys_update_name><sys_updated_by>optimiz</sys_updated_by><sys_updated_on>2022-06-09 17:32:47</sys_updated_on></sys_uib_toolbox_component><sys_translated_text action="delete_multiple" query="documentkey=ea2503bbf6321465bbf0f46606a698ca"/></record_update>]]></payload>
+        <payload_hash>-1920914768</payload_hash>
+        <record_name>Optimiz D3 Visualization</record_name>
+        <reverted_from/>
+        <source>ac4d9745970f8950ada0b9cfe153af4b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>optimiz</sys_created_by>
+        <sys_created_on>2022-06-09 18:11:28</sys_created_on>
+        <sys_id>fd9276ec4780d510d0bc5c62e36d43fd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18149aa061e0000001</sys_recorded_at>
+        <sys_updated_by>optimiz</sys_updated_by>
+        <sys_updated_on>2022-06-09 18:11:28</sys_updated_on>
+        <type>Builder Component</type>
+        <update_guid>54a96ae822889950a0dcaffbccb1da3e</update_guid>
+        <update_guid_history>54a96ae822889950a0dcaffbccb1da3e:-150216493,d7b96ee87e889950ff7794b532702fbf:-251313781,54a96ae822889950a0dcaffbccb1da3e:-150216493,20f822a801889950aa9a6e8d74bd4326:1560640691,c01966a850889950a32cd5f2c5476051:-251313781,20f822a801889950aa9a6e8d74bd4326:1560640691,7d08eee4c9889950bc470814d7cd78a6:1182505868,3028e2ac9040d5103e378723838936d8:-251313781,7d08eee4c9889950bc470814d7cd78a6:1182505868,b81226a0db40d510d68d7a0544c4cec6:1623568762,f322e6e0f040d51091be7eff80e69c4b:-251313781,b81226a0db40d510d68d7a0544c4cec6:1623568762,6b11aa2c704899509651a38664a7f8d2:1346752091,87316a605540d51043a77cf3e202b861:-251313781,6b11aa2c704899509651a38664a7f8d2:1346752091,128062202940d5108dedacdd33d0f538:-144021393,cda0a6201040d510925ceaf40742fc48:-251313781,128062202940d5108dedacdd33d0f538:-144021393,856f9a682e489950494c2418eb79897d:1233800128,bb7f5e68c3489950b81af15cd4b967bd:-251313781,856f9a682e489950494c2418eb79897d:1233800128,c46d5aa84800d51002e035396a3d1fa5:-1262158948,db7d5ea82900d510b9650ef3b807185b:-251313781,c46d5aa84800d51002e035396a3d1fa5:-1262158948,1dcef9d8f68055108c8c0c9e41df0be6:377710090,b8ee311cd680551010b6995c15b1dabb:-251313781,1dcef9d8f68055108c8c0c9e41df0be6:377710090,cc8d3d108e4c19509053dc9e482ffd4a:528071960,f29d31506a4c19501de6ffec79b89095:-251313781,cc8d3d108e4c19509053dc9e482ffd4a:528071960,f07d7158ae8055103c70f040a22701cb:0,eddcf5dc570c1950a0e67c7455e06dd2:-251313781</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>optimiz</sys_created_by>
+        <sys_created_on>2022-06-09 18:11:46</sys_created_on>
+        <sys_db_object display_value="" name="sys_uib_toolbox_component">sys_uib_toolbox_component</sys_db_object>
+        <sys_id>68910cfb704943e996cd02f867fcbd81</sys_id>
+        <sys_metadata>ea2503bbf6321465bbf0f46606a698ca</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Optimiz D3 Visualization</sys_name>
+        <sys_package display_value="@snc/optimizui-components" source="x_snc_optimizui">9c93e20887250110e4c0ea883cbb352b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="@snc/optimizui-components">9c93e20887250110e4c0ea883cbb352b</sys_scope>
+        <sys_scope_delete display_value="">6aed2b9d219e49c099a4a9f9562a9e40</sys_scope_delete>
+        <sys_update_name>sys_uib_toolbox_component_ea2503bbf6321465bbf0f46606a698ca</sys_update_name>
+        <sys_update_version display_value="sys_uib_toolbox_component_ea2503bbf6321465bbf0f46606a698ca">fd9276ec4780d510d0bc5c62e36d43fd</sys_update_version>
+        <sys_updated_by>optimiz</sys_updated_by>
+        <sys_updated_on>2022-06-09 18:11:46</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
