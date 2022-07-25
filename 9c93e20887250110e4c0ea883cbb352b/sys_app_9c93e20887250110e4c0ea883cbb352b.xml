@@ -29,15 +29,15 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-02-03 21:11:54</sys_created_on>
         <sys_id>9c93e20887250110e4c0ea883cbb352b</sys_id>
-        <sys_mod_count>12</sys_mod_count>
+        <sys_mod_count>13</sys_mod_count>
         <sys_updated_by>optimiz</sys_updated_by>
-        <sys_updated_on>2022-06-24 19:43:23</sys_updated_on>
+        <sys_updated_on>2022-07-25 23:32:47</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <uninstall_blocked>false</uninstall_blocked>
         <user_role/>
         <vendor/>
         <vendor_prefix/>
-        <version>1.5.0</version>
+        <version>1.5.1</version>
     </sys_app>
 </record_update>
