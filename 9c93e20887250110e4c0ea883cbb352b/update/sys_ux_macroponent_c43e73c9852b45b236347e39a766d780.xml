@@ -6,7 +6,9 @@
         <composition>[]</composition>
         <da_relay_models/>
         <data/>
+        <description/>
         <dispatched_events/>
+        <ext_controller_dep/>
         <extends/>
         <handled_events/>
         <interactions/>
@@ -15,6 +17,7 @@
         <layout>{}</layout>
         <macroponent_dependencies/>
         <name>Optimiz SideMenu</name>
+        <output_prop_mapping/>
         <props>[{"name":"menuOptions","label":"Side Menu Options","fieldType":"json","readOnly":false,"typeMetadata":{"schema":{"type":"array","items":{"type":"object","properties":{"label":{"type":"string"},"name":{"type":"string"},"listValue":{"type":"string"},"svgIcon":{"type":"string"},"isLink":{"type":"boolean"}}}}},"defaultValue":"[{\"label\": \"Active\", \"name\": \"active\", \"listValue\": \"group_source!=5^state!=closed\", \"svgIcon\": \"&lt;svg xmlns='http://www.w3.org/2000/svg' height='18px' viewBox='0 0 24 24' width='18px'&gt;&lt;path d='M0 0h24v24H0V0z' fill='none'/&gt;&lt;path d='M18 16v-5c0-3.07-1.64-5.64-4.5-6.32V4c0-.83-.68-1.5-1.51-1.5S10.5 3.17 10.5 4v.68C7.63 5.36 6 7.92 6 11v5l-1.3 1.29c-.63.63-.19 1.71.7 1.71h13.17c.89 0 1.34-1.08.71-1.71L18 16zm-6.01 6c1.1 0 2-.9 2-2h-4c0 1.1.89 2 2 2zM6.77 4.73c.42-.38.43-1.03.03-1.43-.38-.38-1-.39-1.39-.02C3.7 4.84 2.52 6.96 2.14 9.34c-.09.61.38 1.16 1 1.16.48 0 .9-.35.98-.83.3-1.94 1.26-3.67 2.65-4.94zM18.6 3.28c-.4-.37-1.02-.36-1.4.02-.4.4-.38 1.04.03 1.42 1.38 1.27 2.35 3 2.65 4.94.07.48.49.83.98.83.61 0 1.09-.55.99-1.16-.38-2.37-1.55-4.48-3.25-6.05z'/&gt;&lt;/svg&gt;\", \"isLink\": false}]","description":"Define the options in the side menu. Supports sysparms to set filters on list, or link to another page.","selectable":false,"valueType":"string"},{"name":"listParamValue","label":"List Parameter Value","fieldType":"string","readOnly":false,"defaultValue":"","description":"Should be set to the list parameter value with dynamic data binding","selectable":false,"valueType":"string"},{"name":"currentUser","label":"Current User Lookup","fieldType":"json","readOnly":false,"defaultValue":"{}","description":"Should be set to the user value of a look_up_user data resource","selectable":false,"valueType":"string"}]</props>
         <required_translations>[ ]</required_translations>
         <root_component display_value="snc-optimiz-sidemenu">13f77c892d8eb76971df165b088627e2</root_component>
@@ -24,15 +27,12 @@
         <state_properties/>
         <sys_class_name>sys_ux_macroponent</sys_class_name>
         <sys_created_by>optimiz</sys_created_by>
-        <sys_created_on>2022-07-29 17:26:46</sys_created_on>
+        <sys_created_on>2022-08-23 20:41:04</sys_created_on>
         <sys_id>c43e73c9852b45b236347e39a766d780</sys_id>
-        <sys_mod_count>0</sys_mod_count>
         <sys_name>Optimiz SideMenu</sys_name>
         <sys_package display_value="@snc/optimizui-components" source="x_snc_optimizui">9c93e20887250110e4c0ea883cbb352b</sys_package>
         <sys_policy/>
         <sys_scope display_value="@snc/optimizui-components">9c93e20887250110e4c0ea883cbb352b</sys_scope>
         <sys_update_name>sys_ux_macroponent_c43e73c9852b45b236347e39a766d780</sys_update_name>
-        <sys_updated_by>optimiz</sys_updated_by>
-        <sys_updated_on>2022-07-29 17:26:46</sys_updated_on>
     </sys_ux_macroponent>
 </record_update>

@@ -6,7 +6,9 @@
         <composition>[]</composition>
         <da_relay_models/>
         <data/>
+        <description/>
         <dispatched_events/>
+        <ext_controller_dep/>
         <extends/>
         <handled_events/>
         <interactions/>
@@ -15,6 +17,7 @@
         <layout>{}</layout>
         <macroponent_dependencies/>
         <name>Integration List</name>
+        <output_prop_mapping/>
         <props>[]</props>
         <required_translations>[ ]</required_translations>
         <root_component display_value="snc-integration-list">e15fa42ac7bca6cdabcaa5dae3e4762e</root_component>
@@ -24,15 +27,12 @@
         <state_properties/>
         <sys_class_name>sys_ux_macroponent</sys_class_name>
         <sys_created_by>optimiz</sys_created_by>
-        <sys_created_on>2022-07-29 17:26:42</sys_created_on>
+        <sys_created_on>2022-08-23 20:41:00</sys_created_on>
         <sys_id>4f32ed656b3bd7c7f9d3c567f54d7185</sys_id>
-        <sys_mod_count>0</sys_mod_count>
         <sys_name>Integration List</sys_name>
         <sys_package display_value="@snc/optimizui-components" source="x_snc_optimizui">9c93e20887250110e4c0ea883cbb352b</sys_package>
         <sys_policy/>
         <sys_scope display_value="@snc/optimizui-components">9c93e20887250110e4c0ea883cbb352b</sys_scope>
         <sys_update_name>sys_ux_macroponent_4f32ed656b3bd7c7f9d3c567f54d7185</sys_update_name>
-        <sys_updated_by>optimiz</sys_updated_by>
-        <sys_updated_on>2022-07-29 17:26:42</sys_updated_on>
     </sys_ux_macroponent>
 </record_update>
