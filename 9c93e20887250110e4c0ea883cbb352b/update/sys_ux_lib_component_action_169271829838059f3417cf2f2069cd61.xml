@@ -5,7 +5,7 @@
         <publisher display_value="snc-alert-email-view">8c2c2f0324137ba41e3a1b7e19ff64ad</publisher>
         <sys_class_name>sys_ux_lib_component_action</sys_class_name>
         <sys_created_by>optimiz</sys_created_by>
-        <sys_created_on>2022-08-26 18:32:55</sys_created_on>
+        <sys_created_on>2022-08-29 21:55:34</sys_created_on>
         <sys_id>169271829838059f3417cf2f2069cd61</sys_id>
         <sys_name>RECORD_LINK_CLICKED</sys_name>
         <sys_package display_value="@snc/optimizui-components" source="x_snc_optimizui">9c93e20887250110e4c0ea883cbb352b</sys_package>
