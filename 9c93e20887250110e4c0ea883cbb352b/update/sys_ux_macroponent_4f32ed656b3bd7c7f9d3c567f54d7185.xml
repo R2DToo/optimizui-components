@@ -27,7 +27,7 @@
         <state_properties/>
         <sys_class_name>sys_ux_macroponent</sys_class_name>
         <sys_created_by>optimiz</sys_created_by>
-        <sys_created_on>2022-08-29 21:55:45</sys_created_on>
+        <sys_created_on>2022-08-29 22:09:00</sys_created_on>
         <sys_id>4f32ed656b3bd7c7f9d3c567f54d7185</sys_id>
         <sys_name>Integration List</sys_name>
         <sys_package display_value="@snc/optimizui-components" source="x_snc_optimizui">9c93e20887250110e4c0ea883cbb352b</sys_package>
