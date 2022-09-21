@@ -27,7 +27,7 @@
         <state_properties/>
         <sys_class_name>sys_ux_macroponent</sys_class_name>
         <sys_created_by>optimiz</sys_created_by>
-        <sys_created_on>2022-09-12 18:04:52</sys_created_on>
+        <sys_created_on>2022-09-21 18:45:15</sys_created_on>
         <sys_id>c43e73c9852b45b236347e39a766d780</sys_id>
         <sys_name>Optimiz SideMenu</sys_name>
         <sys_package display_value="@snc/optimizui-components" source="x_snc_optimizui">9c93e20887250110e4c0ea883cbb352b</sys_package>
