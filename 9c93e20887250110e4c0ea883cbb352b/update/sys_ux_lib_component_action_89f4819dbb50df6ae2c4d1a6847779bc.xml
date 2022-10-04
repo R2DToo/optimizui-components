@@ -5,7 +5,7 @@
         <publisher display_value="snc-alert-email-view">8c2c2f0324137ba41e3a1b7e19ff64ad</publisher>
         <sys_class_name>sys_ux_lib_component_action</sys_class_name>
         <sys_created_by>optimiz</sys_created_by>
-        <sys_created_on>2022-10-04 18:33:21</sys_created_on>
+        <sys_created_on>2022-10-04 19:01:17</sys_created_on>
         <sys_id>89f4819dbb50df6ae2c4d1a6847779bc</sys_id>
         <sys_name>TABLE_RECORD_COUNT_UPDATED</sys_name>
         <sys_package display_value="@snc/optimizui-components" source="x_snc_optimizui">9c93e20887250110e4c0ea883cbb352b</sys_package>
