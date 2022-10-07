@@ -2,27 +2,27 @@
     <sys_uib_toolbox_component action="INSERT_OR_UPDATE">
         <component_config/>
         <config_layout/>
-        <description>A description of my component</description>
+        <description>A filter component</description>
         <external_configuration_sources/>
         <group/>
         <group_category/>
         <group_icon/>
-        <icon>inbox-fill</icon>
+        <icon>menu-fill</icon>
         <image_icon/>
         <internal_component>false</internal_component>
-        <label>Alert-Email-View</label>
-        <macroponent display_value="Alert-Email-View">41308fb9ac1606f3aff57514f1bb3a04</macroponent>
+        <label>Optimiz Filter</label>
+        <macroponent display_value="Optimiz Filter">c00a9568847d8f7f3fd391a3ca802715</macroponent>
         <order>0</order>
         <scripted_config_policy/>
         <sys_class_name>sys_uib_toolbox_component</sys_class_name>
         <sys_created_by>optimiz</sys_created_by>
-        <sys_created_on>2022-10-07 15:52:32</sys_created_on>
-        <sys_id>c95a0ce587ccc43da7c5cc5978973814</sys_id>
-        <sys_name>Alert-Email-View</sys_name>
+        <sys_created_on>2022-10-07 15:52:43</sys_created_on>
+        <sys_id>3ddc360c323b28a70619e4d98ff01f03</sys_id>
+        <sys_name>Optimiz Filter</sys_name>
         <sys_package display_value="@snc/optimizui-components" source="x_snc_optimizui">9c93e20887250110e4c0ea883cbb352b</sys_package>
         <sys_policy/>
         <sys_scope display_value="@snc/optimizui-components">9c93e20887250110e4c0ea883cbb352b</sys_scope>
-        <sys_update_name>sys_uib_toolbox_component_c95a0ce587ccc43da7c5cc5978973814</sys_update_name>
+        <sys_update_name>sys_uib_toolbox_component_3ddc360c323b28a70619e4d98ff01f03</sys_update_name>
     </sys_uib_toolbox_component>
-    <sys_translated_text action="delete_multiple" query="documentkey=c95a0ce587ccc43da7c5cc5978973814"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=3ddc360c323b28a70619e4d98ff01f03"/>
 </record_update>

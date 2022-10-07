@@ -5,7 +5,7 @@
         <publisher display_value="snc-optimiz-sidemenu">13f77c892d8eb76971df165b088627e2</publisher>
         <sys_class_name>sys_ux_lib_component_action</sys_class_name>
         <sys_created_by>optimiz</sys_created_by>
-        <sys_created_on>2022-10-04 19:33:22</sys_created_on>
+        <sys_created_on>2022-10-07 15:52:41</sys_created_on>
         <sys_id>42ca4dfe2265840faf44130ed0e55928</sys_id>
         <sys_name>RECORD_LINK_CMDB_CI_CLICKED</sys_name>
         <sys_package display_value="@snc/optimizui-components" source="x_snc_optimizui">9c93e20887250110e4c0ea883cbb352b</sys_package>
