@@ -7,7 +7,7 @@
         <da_relay_models/>
         <data/>
         <description/>
-        <dispatched_events>d79861f947e38d10d0bc5c62e36d4351</dispatched_events>
+        <dispatched_events/>
         <ext_controller_dep/>
         <extends/>
         <handled_events/>
@@ -27,7 +27,7 @@
         <state_properties/>
         <sys_class_name>sys_ux_macroponent</sys_class_name>
         <sys_created_by>optimiz</sys_created_by>
-        <sys_created_on>2022-10-07 15:52:32</sys_created_on>
+        <sys_created_on>2022-10-07 19:16:57</sys_created_on>
         <sys_id>41308fb9ac1606f3aff57514f1bb3a04</sys_id>
         <sys_name>Alert-Email-View</sys_name>
         <sys_package display_value="@snc/optimizui-components" source="x_snc_optimizui">9c93e20887250110e4c0ea883cbb352b</sys_package>
