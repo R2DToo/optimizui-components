@@ -13,7 +13,7 @@
         <sys_id>1dce325287ea011007570d0d0ebb351d</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>TABLE_RECORD_COUNT_UPDATED</sys_name>
-        <sys_package display_value="@snc/optimizui-components" source="x_snc_optimizui">9c93e20887250110e4c0ea883cbb352b</sys_package>
+        <sys_package display_value="@snc/optimizui-components" source="x_opti8_uilibrary">9c93e20887250110e4c0ea883cbb352b</sys_package>
         <sys_policy/>
         <sys_scope display_value="@snc/optimizui-components">9c93e20887250110e4c0ea883cbb352b</sys_scope>
         <sys_update_name>sys_ux_event_1dce325287ea011007570d0d0ebb351d</sys_update_name>

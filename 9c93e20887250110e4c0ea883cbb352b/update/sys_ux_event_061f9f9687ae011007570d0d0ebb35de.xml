@@ -13,7 +13,7 @@
         <sys_id>061f9f9687ae011007570d0d0ebb35de</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>TABLE_ACTION_BAR_BUTTON_CLICKED</sys_name>
-        <sys_package display_value="@snc/optimizui-components" source="x_snc_optimizui">9c93e20887250110e4c0ea883cbb352b</sys_package>
+        <sys_package display_value="@snc/optimizui-components" source="x_opti8_uilibrary">9c93e20887250110e4c0ea883cbb352b</sys_package>
         <sys_policy/>
         <sys_scope display_value="@snc/optimizui-components">9c93e20887250110e4c0ea883cbb352b</sys_scope>
         <sys_update_name>sys_ux_event_061f9f9687ae011007570d0d0ebb35de</sys_update_name>
