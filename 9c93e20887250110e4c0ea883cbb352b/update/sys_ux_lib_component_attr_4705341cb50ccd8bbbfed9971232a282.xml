@@ -58,15 +58,15 @@
         <staged>false</staged>
         <sys_class_name>sys_ux_lib_component_attr</sys_class_name>
         <sys_created_by>optimiz</sys_created_by>
-        <sys_created_on>2022-10-07 19:16:45</sys_created_on>
+        <sys_created_on>2022-10-11 18:15:52</sys_created_on>
         <sys_id>4705341cb50ccd8bbbfed9971232a282</sys_id>
         <sys_name>Current User Lookup</sys_name>
-        <sys_package display_value="@snc/optimizui-components" source="x_opti8_uilibrary">9c93e20887250110e4c0ea883cbb352b</sys_package>
+        <sys_package display_value="Optimiz UI Library" source="x_opti8_uilibrary">9c93e20887250110e4c0ea883cbb352b</sys_package>
         <sys_policy/>
-        <sys_scope display_value="@snc/optimizui-components">9c93e20887250110e4c0ea883cbb352b</sys_scope>
+        <sys_scope display_value="Optimiz UI Library">9c93e20887250110e4c0ea883cbb352b</sys_scope>
         <sys_update_name>sys_ux_lib_component_attr_4705341cb50ccd8bbbfed9971232a282</sys_update_name>
         <sys_updated_by>optimiz</sys_updated_by>
-        <sys_updated_on>2022-10-07 19:19:14</sys_updated_on>
+        <sys_updated_on>2022-10-17 21:01:34</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

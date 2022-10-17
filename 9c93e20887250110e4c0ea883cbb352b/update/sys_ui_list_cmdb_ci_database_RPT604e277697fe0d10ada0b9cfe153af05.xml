@@ -33,9 +33,9 @@
             <sys_id>a44e277697fe0d10ada0b9cfe153af0a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>cmdb_ci_database</sys_name>
-            <sys_package display_value="@snc/optimizui-components" source="x_opti8_uilibrary">9c93e20887250110e4c0ea883cbb352b</sys_package>
+            <sys_package display_value="Optimiz UI Library" source="x_opti8_uilibrary">9c93e20887250110e4c0ea883cbb352b</sys_package>
             <sys_policy/>
-            <sys_scope display_value="@snc/optimizui-components">9c93e20887250110e4c0ea883cbb352b</sys_scope>
+            <sys_scope display_value="Optimiz UI Library">9c93e20887250110e4c0ea883cbb352b</sys_scope>
             <sys_update_name>sys_ui_list_cmdb_ci_database_RPT604e277697fe0d10ada0b9cfe153af05</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2022-04-15 19:00:00</sys_updated_on>
