@@ -14,7 +14,7 @@
         <license_model>none</license_model>
         <logo/>
         <menu/>
-        <name>@snc/optimizui-components</name>
+        <name>Optimiz UI Library</name>
         <private>false</private>
         <restrict_table_access>false</restrict_table_access>
         <runtime_access_tracking>permissive</runtime_access_tracking>
@@ -35,6 +35,6 @@
         <user_role/>
         <vendor/>
         <vendor_prefix/>
-        <version>1.5.7</version>
+        <version>1.5.8</version>
     </sys_app>
 </record_update>
