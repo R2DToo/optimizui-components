@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="tableLimit" label="Number of records per page" language="en" table="var__m_sys_ux_lib_component_attr_8c2c2f0324137ba41e3a1b7e19ff64ad">
+    <sys_documentation element="uibRefresh" label="Refresh Toggle" language="en" table="var__m_sys_ux_lib_component_attr_8c2c2f0324137ba41e3a1b7e19ff64ad">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>tableLimit</element>
+            <element>uibRefresh</element>
             <help/>
             <hint/>
-            <label>Number of records per page</label>
+            <label>Refresh Toggle</label>
             <language>en</language>
             <name>var__m_sys_ux_lib_component_attr_8c2c2f0324137ba41e3a1b7e19ff64ad</name>
-            <plural>Number of records per page</plural>
+            <plural>Refresh Toggle</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>optimiz</sys_created_by>
-            <sys_created_on>2022-10-18 20:51:36</sys_created_on>
-            <sys_id>058ff17e47ae9190d0bc5c62e36d43d8</sys_id>
+            <sys_created_on>2022-10-18 20:51:38</sys_created_on>
+            <sys_id>a950095747129910d0bc5c62e36d430b</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>Number of records per page</sys_name>
+            <sys_name>Refresh Toggle</sys_name>
             <sys_package display_value="Optimiz UI Library" source="x_opti8_uilibrary">9c93e20887250110e4c0ea883cbb352b</sys_package>
             <sys_policy/>
             <sys_scope display_value="Optimiz UI Library">9c93e20887250110e4c0ea883cbb352b</sys_scope>
-            <sys_update_name>sys_documentation_var__m_sys_ux_lib_component_attr_8c2c2f0324137ba41e3a1b7e19ff64ad_tableLimit_en</sys_update_name>
+            <sys_update_name>sys_documentation_var__m_sys_ux_lib_component_attr_8c2c2f0324137ba41e3a1b7e19ff64ad_uibRefresh_en</sys_update_name>
             <sys_updated_by>optimiz</sys_updated_by>
-            <sys_updated_on>2022-10-18 20:51:36</sys_updated_on>
+            <sys_updated_on>2022-10-18 20:51:38</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>
