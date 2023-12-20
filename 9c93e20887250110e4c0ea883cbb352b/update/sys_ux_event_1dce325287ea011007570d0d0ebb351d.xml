@@ -2,6 +2,7 @@
     <sys_ux_event action="INSERT_OR_UPDATE">
         <description/>
         <event_name>TABLE_RECORD_COUNT_UPDATED</event_name>
+        <explicit_api_name/>
         <interfaces/>
         <label>TABLE_RECORD_COUNT_UPDATED</label>
         <props>[]</props>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name/>
+        <order>100</order>
+        <roles>personalize_dictionary</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>optimiz</sys_created_by>
+        <sys_created_on>2022-12-02 14:37:03</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a109189587a39990dd8e33773cbb3563</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Optimiz UI Library</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Optimiz UI Library" source="x_opti8_uilibrary">9c93e20887250110e4c0ea883cbb352b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Optimiz UI Library">9c93e20887250110e4c0ea883cbb352b</sys_scope>
+        <sys_update_name>sys_app_application_a109189587a39990dd8e33773cbb3563</sys_update_name>
+        <sys_updated_by>optimiz</sys_updated_by>
+        <sys_updated_on>2022-12-02 16:01:49</sys_updated_on>
+        <title>Optimiz UI Library</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>chrome_footer</name>
+        <page display_value="Optimiz AIOps Workspace">2d91965c6fed4110794d5955f9444098</page>
+        <required_translations>[ ]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>optimiz</sys_created_by>
+        <sys_created_on>2023-08-23 00:02:48</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>28f4f84687743910e7ae55b83cbb3583</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_footer</sys_name>
+        <sys_package display_value="Optimiz UI Library" source="x_opti8_uilibrary">9c93e20887250110e4c0ea883cbb352b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Optimiz UI Library">9c93e20887250110e4c0ea883cbb352b</sys_scope>
+        <sys_update_name>sys_ux_page_property_28f4f84687743910e7ae55b83cbb3583</sys_update_name>
+        <sys_updated_by>optimiz</sys_updated_by>
+        <sys_updated_on>2023-08-23 00:02:48</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_opti8_uilibrary.2d91965c6fed4110794d5955f9444098.root.chrome_footer</unique_name>
+        <value>{"public_page":{"enable_footer_topbar":false,"footer_topbar_options":{},"enable_footer_bar":false,"footer_bar_options":{}}}</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=28f4f84687743910e7ae55b83cbb3583"/>
+</record_update>
